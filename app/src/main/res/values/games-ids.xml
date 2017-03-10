@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">696043592443</string>
+    <string name="package_name">com.datababa.app</string>
+    <string name="achievement_bronze_medal">CgkI-7W5-6AUEAIQAg</string>
+    <string name="achievement_silver_medal">CgkI-7W5-6AUEAIQAw</string>
+    <string name="achievement_gold_medal">CgkI-7W5-6AUEAIQBA</string>
+    <string name="achievement_the_crown">CgkI-7W5-6AUEAIQBQ</string>
+    <string name="leaderboard_datababa_leaderboard">CgkI-7W5-6AUEAIQAQ</string>
+</resources>

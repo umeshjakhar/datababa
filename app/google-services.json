@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696043592443",
+    "firebase_url": "https://datababa-8ca04.firebaseio.com",
+    "project_id": "datababa-8ca04",
+    "storage_bucket": "datababa-8ca04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696043592443:android:f36ab86950c999db",
+        "android_client_info": {
+          "package_name": "com.datababa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696043592443-3hhfaqgp8fv90de61t48akofvic7jspl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datababa.app",
+            "certificate_hash": "92be9dd337568734bd633c9f36764ebbee423b5c"
+          }
+        },
+        {
+          "client_id": "696043592443-5pd0emor4flb9pu5bp1h5780o7knouoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn26wvEBOx8suf_Jxb-EWG1avruIwI470"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696043592443-5pd0emor4flb9pu5bp1h5780o7knouoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

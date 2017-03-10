@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jacker/Desktop/DataBaba/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/jacker/Desktop/DataBaba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_810277ec950b747994ae009b86c1b7736a7ef948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jacker/Desktop/DataBaba/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bf2b93d2278edc8843da4d616375aeabfba458c">
+        <dex dex="/home/jacker/Desktop/DataBaba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_067f37498368253b92aaf6c91fca352b137c83b3/classes.dex" />
+    </item>
+
+</items>
