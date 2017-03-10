@@ -318,9 +318,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void renderPost() {
-        webView.loadUrl(postUrl);
+       // webView.loadUrl(postUrl);
 
-        // webView.loadUrl("file:///android_asset/sample.html");
+         webView.loadUrl("file:///android_asset/sample.html");
     }
 
     private void openInAppBrowser(String url) {

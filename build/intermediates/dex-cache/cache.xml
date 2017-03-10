@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/jacker/Desktop/DataBaba/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/jacker/Desktop/DataBabaGit/datababa/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/home/jacker/Desktop/DataBaba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_810277ec950b747994ae009b86c1b7736a7ef948/classes.dex" />
+        <dex dex="/home/jacker/Desktop/DataBabaGit/datababa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a322ae3440171e081b13d5c3ab56976f2cbf7c6e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/jacker/Desktop/DataBaba/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/jacker/Desktop/DataBabaGit/datababa/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3bf2b93d2278edc8843da4d616375aeabfba458c">
-        <dex dex="/home/jacker/Desktop/DataBaba/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_067f37498368253b92aaf6c91fca352b137c83b3/classes.dex" />
+        sha1="b38fb4f8727a232c1fa46a39e65d8acf01690575">
+        <dex dex="/home/jacker/Desktop/DataBabaGit/datababa/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7dd5c0e3c16641c2d14e4ab964209fdda20e0ef6/classes.dex" />
     </item>
 
 </items>

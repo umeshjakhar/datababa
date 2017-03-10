@@ -28,7 +28,15 @@
 </head>
 
 <body>
-<h1>WebView loading local html</h1>
-This is content is loaded from app's assets folder with custom css and font style :)
+<iframe id="coupons" width='300' height='600' frameborder='0' scrolling='no' src='https://www.cuelinks.com/widgets/10771?pub_id=1633CL1566'></iframe>
 </body>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+
+
+document.getElementById('coupons').contentWindow.document.getElementById('containerC2').style.width = "100%";
+document.getElementById('coupons').contentWindow.document.querySelector(".cslider-cont").style.width = "100%";
+}, false);
+</script>
+
 </html>
